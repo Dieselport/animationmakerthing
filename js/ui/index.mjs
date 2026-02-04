@@ -1,4 +1,4 @@
-class uiElement extends element{
+export class uiElement extends element{
   new(){
     
   }
