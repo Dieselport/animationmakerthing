@@ -5,4 +5,4 @@ class element {
     elements.push(this);
   }
 }
-import "*" from "./ui/index.mjs";
+import * as ui from "./ui/index.mjs";
